@@ -24,4 +24,4 @@ def find_anagram(word, anagram):
     elif(list_w == list_anagr):
         return True
 
-print(find_anagram("listen", "silant"))
+# print(find_anagram("listen", "silant"))
